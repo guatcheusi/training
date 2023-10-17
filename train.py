@@ -1,1 +1,1 @@
-print('Hello')
+print("Hello people, i will do a lstm's model")
